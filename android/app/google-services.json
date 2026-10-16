@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "495336240048",
+    "firebase_url": "https://labrab-2e931-default-rtdb.firebaseio.com",
+    "project_id": "labrab-2e931",
+    "storage_bucket": "labrab-2e931.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495336240048:android:f7891d8a918be541cd9c75",
+        "android_client_info": {
+          "package_name": "com.android.labrab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC39CghfYLJoZYY0c78uIC7YCRbOtrsJmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
